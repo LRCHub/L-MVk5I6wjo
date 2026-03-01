@@ -1,4 +1,4 @@
-# ナナヲアカリ – チューリングラブ feat.Sou / ナナヲアカリ（feat. Sou）
+# ナナヲアカリ – チューリングラブ - From THE FIRST TAKE（feat. Sou）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
