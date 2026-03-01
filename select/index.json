@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "チューリングラブ feat.Sou / ナナヲアカリ（feat. Sou）",
+  "base_track": "チューリングラブ - From THE FIRST TAKE（feat. Sou）",
   "base_artist": "ナナヲアカリ",
-  "createdAt": "2026-02-17T18:16:41.295879Z",
+  "createdAt": "2026-03-01T17:34:35.188282Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -95,50 +95,50 @@
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "チューリングラブ feat. Sou",
-      "artist": "ナナヲアカリ",
+      "title": "チューリングラブ",
+      "artist": "Nanawoakari",
       "has_synced": true,
-      "path": "select/12_チューリングラブ_feat._Sou_ナナヲアカリ.lrc"
+      "path": "select/12_チューリングラブ_Nanawoakari.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "チューリングラブ",
-      "artist": "Nanawoakari",
+      "title": "チューリングラブ (TV Size Version)",
+      "artist": "ナナヲアカリ",
       "has_synced": true,
-      "path": "select/13_チューリングラブ_Nanawoakari.lrc"
+      "path": "select/13_チューリングラブ_(TV_Size_Version)_ナナヲアカリ.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "チューリングラブ feat.Sou (Ba. Less ver.)",
-      "artist": "ナナヲアカリ",
+      "title": "チューリングラブ (TV Size Version)",
+      "artist": "ナナヲアカリ feat. Sou",
       "has_synced": true,
-      "path": "select/14_チューリングラブ_feat.Sou_(Ba._Less_ver.)_ナナヲアカリ.lrc"
+      "path": "select/14_チューリングラブ_(TV_Size_Version)_ナナヲアカリ_feat._Sou.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "チューリングラブ feat.Sou (instrumental)",
+      "title": "チューリングラブ feat. Sou",
       "artist": "ナナヲアカリ",
       "has_synced": true,
-      "path": "select/15_チューリングラブ_feat.Sou_(instrumental)_ナナヲアカリ.lrc"
+      "path": "select/15_チューリングラブ_feat._Sou_ナナヲアカリ.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "チューリングラブ (TV Size Version)",
+      "title": "チューリングラブ feat.Sou (Ba. Less ver.)",
       "artist": "ナナヲアカリ",
       "has_synced": true,
-      "path": "select/16_チューリングラブ_(TV_Size_Version)_ナナヲアカリ.lrc"
+      "path": "select/16_チューリングラブ_feat.Sou_(Ba._Less_ver.)_ナナヲアカリ.lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "チューリングラブ (TV Size Version)",
-      "artist": "ナナヲアカリ feat. Sou",
+      "title": "チューリングラブ feat.Sou (instrumental)",
+      "artist": "ナナヲアカリ",
       "has_synced": true,
-      "path": "select/17_チューリングラブ_(TV_Size_Version)_ナナヲアカリ_feat._Sou.lrc"
+      "path": "select/17_チューリングラブ_feat.Sou_(instrumental)_ナナヲアカリ.lrc"
     },
     {
       "id": "petitlyrics_1",
